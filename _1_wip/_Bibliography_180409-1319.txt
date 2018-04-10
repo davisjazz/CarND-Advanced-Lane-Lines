@@ -1,0 +1,171 @@
+# BIBLIOGRAPHY:
+
+# ----------------------------------------------
+# COMPUTER VISION
+# ----------------------------------------------
+* Sobel operator
+==> https://en.wikipedia.org/wiki/Sobel_operator
+# ----------------------------------------------
+# KERAS
+# ----------------------------------------------
+. How can I remove a layer from a Sequential model?
+==> https://keras.io/getting-started/faq/#how-can-i-remove-a-layer-from-a-sequential-model
+. Usage of initializers
+==> https://keras.io/initializers/
+# ----------------------------------------------
+# PYTHON
+# ----------------------------------------------
+. [BOOK] Mastering Object-oriented Python
+==> ISBN 978-1-78328-097-1
+. [main] Part 4: The Logic of the Script
+==> http://newcoder.io/api/part-4/
+. [main] 29.4. __main__ — Top-level script environment
+==> https://docs.python.org/3/library/__main__.html
+. [argparse] Better option parsing in Python:
+==> http://leancrew.com/all-this/2015/06/better-option-parsing-in-python-maybe/
+. [argparse] Where to put argparse?
+==> https://www.reddit.com/r/learnpython/comments/3do2wr/where_to_put_argparse/
+. [argparse] python doc : 16.4. argparse — Parser for command-line options, arguments and sub-commands
+==> https://docs.python.org/3/library/argparse.html
+. [argparse] quick reference - 28.10. argparse: Processing command line arguments
+==> http://infohost.nmt.edu/~shipman/doc/python27/web/argparse.html
+. [glob] How to pass files to script with glob AND specific path, with error if path does not exist?
+==> https://stackoverflow.com/questions/12117467/how-to-pass-files-to-script-with-glob-and-specific-path-with-error-if-path-does?rq=1
+. [glob] 11.7. glob — Unix style pathname pattern expansion
+==> https://docs.python.org/3/library/glob.html
+. [Modules] https://docs.python.org/3/tutorial/modules.html
+. How to run an IPython magic from a script (or timing a Python script)
+==> https://stackoverflow.com/questions/10361206/how-to-run-an-ipython-magic-from-a-script-or-timing-a-python-script
+. Python List Comprehension Tutorial
+==> https://www.datacamp.com/community/tutorials/python-list-comprehension
+. Python List Comprehension
+==> https://www.programiz.com/python-programming/list-comprehension
+´. how to document python code
+==> http://docs.python-guide.org/en/latest/writing/documentation/
+# ----------------------------------------------
+# MATPLOTLIB
+# ----------------------------------------------
+. Building a Bullet Graph in Python <- Practical Business Python
+==> http://pbpython.com/bullet-graph.html
+. Python Plotting With Matplotlib (Guide)
+==> https://realpython.com/blog/python/python-matplotlib-guide/
+==> https://files.realpython.com/media/anatomy.7d033ebbfbc8.png
+. Matplotlib Examples: lines_bars_and_markers example code: barh_demo.py
+==> https://matplotlib.org/examples/lines_bars_and_markers/barh_demo.html
+# ----------------------------------------------
+# NUMPY
+# ----------------------------------------------
+. NumPy: creating and manipulating numerical data
+==> http://www.scipy-lectures.org/intro/numpy/numpy.html
+. SciPy
+==> http://lagrange.univ-lyon1.fr/docs/scipy/0.17.1/index.html
+. [Numpy] the difference between random.uniform() and random.random()
+==> https://stackoverflow.com/questions/30030659/in-python-what-is-the-difference-between-random-uniform-and-random-random  
+. Python - numpy mgrid and reshape
+==> https://stackoverflow.com/questions/42308270/python-numpy-mgrid-and-reshape
+==> note: voir np.mgrid[0:2,0:3] 
+    . visualiser résultat de np.mgrid[0:2,0:3] en 3D = vue de face de deux couches
+    . np.mgrid[0:2,0:3].T est une vue de gauche du même objet 3D (trois couches)
+    . np.mgrid[0:2,0:3].T.reshape(-1, 2) est une mise à plat (2D) sur un même plan, des trois couches de la vue de gauche
+. Python numpy.mgrid() Examples
+==> https://www.programcreek.com/python/example/11968/numpy.mgrid
+. NumPy Tutorials : 006 : mgrid, ogrid, and sparse gridded data arrays
+==> www.youtube.com/watch?v=vkrbxLYkh5U
+# ----------------------------------------------
+# OPENCV
+# ----------------------------------------------
+. Camera Calibration
+==> https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_calibration/py_calibration.html
+# ----------------------------------------------
+# GITHUB
+# ----------------------------------------------
+. [github] Understanding the GitHub Flow
+==> https://guides.github.com/introduction/flow/
+. [github] A successful Git branching model
+==> http://nvie.com/posts/a-successful-git-branching-model/
+# ----------------------------------------------
+# PANDAS
+# ----------------------------------------------
+. Pandas Tutorial (Data Analysis In Python)
+==> www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+. Visualization
+==> https://pandas.pydata.org/pandas-docs/stable/visualization.html
+. Quick and Dirty Data Analysis with Pandas
+==> https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/
+. Merge, join, and concatenate
+==> http://pandas.pydata.org/pandas-docs/stable/merging.html
+. pandas.DataFrame.to_csv
+==> https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_csv.html
+. Adobe Color CC
+==> https://color.adobe.com/Copia-de-Copy-of-Sunset-Camping-color-theme-10363657/
+. Count Values In Pandas Dataframe
+==> https://chrisalbon.com/python/data_wrangling/pandas_dataframe_count_values/
+. Python Data Science Handbook Pdf
+==> http://pythonexample.com/code/python-data-science-handbook-pdf/
+. pandas.Series, pandas.Series.sort_index, pandas.Series.sort_values
+==> https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.html
+==> https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.sort_index.html#pandas.Series.sort_index
+==> https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.sort_values.html#pandas.Series.sort_values
+. pandas.DataFrame.plot
+==> https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
+. Python for Data Analysis Part 19: Frequency Tables
+==> http://hamelg.blogspot.de/2015/11/python-for-data-analysis-part-19_17.html
+. pandas.crosstab
+==> http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.crosstab.html
+. Could pandas use column as index?
+==> https://stackoverflow.com/questions/38542419/could-pandas-use-column-as-index
+# ----------------------------------------------
+# TENSORFLOW
+# ----------------------------------------------
+. Saving and Restoring
+==> https://www.tensorflow.org/programmers_guide/saved_model
+. Exporting and Importing a MetaGraph
+==> https://www.tensorflow.org/versions/r1.1/programmers_guide/meta_graph
+. How to train TensorFlow network using a generator to produce inputs?
+==> https://stackoverflow.com/questions/39325275/how-to-train-tensorflow-network-using-a-generator-to-produce-inputs
+. tf.train.batch, 'Inputs and Readers', 'Reading data', 'Reading data'
+==> https://www.tensorflow.org/api_docs/python/tf/train/batch
+==> https://www.tensorflow.org/api_guides/python/io_ops#Input_pipeline
+==> https://www.tensorflow.org/api_guides/python/reading_data#feeding
+==> https://www.tensorflow.org/api_guides/python/reading_data
+. tf.contrib.learn Quickstart
+==> https://www.tensorflow.org/versions/r1.1/get_started/tflearn
+# ----------------------------------------------
+# TENSORBOARD
+# ----------------------------------------------
+. How does one interpret histograms given by TensorFlow in TensorBoard?
+  - https://stats.stackexchange.com/questions/220491/how-does-one-interpret-histograms-given-by-tensorflow-in-tensorboard
+# ----------------------------------------------
+# JUPYTER NOTEBOOK
+# ----------------------------------------------
+. jupiter notebook: Embed a YouTube video
+==> https://stackoverflow.com/questions/11804820/embed-a-youtube-video
+# ----------------------------------------------
+# IDE: PYCHARM
+# ----------------------------------------------
+. Pycharm does not show plot
+==> Need to set environment variables DISPLAY=True ; PYTHONBUFFERED=1
+==> https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000157364-Matplotlib-does-not-work-from-Python-console-in-interactive-mode-v-2017-1
+. Install PyCharm and Anaconda (Windows /Mac/Ubuntu)
+==> https://medium.com/@GalarnykMichael/setting-up-pycharm-with-anaconda-plus-installing-packages-windows-mac-db2b158bd8c
+. Problems with Interactive Plotting in Debug Mode in PyCharm Version 2017.1
+==> https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000143610-Problems-with-Interactive-Plotting-in-Debug-Mode-in-PyCharm-Version-2017-1
+==> https://youtrack.jetbrains.com/issue/PY-23345
+# ----------------------------------------------
+# EXCEL
+# ----------------------------------------------
+. Traduction des formules Excel français/anglais
+  - https://www.cyann.net/2010/08/29/traduction-formules-excel-francais-anglais-french-english/
+# ----------------------------------------------
+# WINDOWS
+# ----------------------------------------------
+. How to export the directory tree of a folder in Windows
+==> https://www.digitalcitizen.life/how-export-directory-tree-folder-windows
+# ----------------------------------------------
+# xxx
+# ----------------------------------------------
+
+
+
+
+
