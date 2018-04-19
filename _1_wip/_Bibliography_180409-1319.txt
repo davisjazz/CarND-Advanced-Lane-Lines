@@ -52,6 +52,8 @@
 ==> https://files.realpython.com/media/anatomy.7d033ebbfbc8.png
 . Matplotlib Examples: lines_bars_and_markers example code: barh_demo.py
 ==> https://matplotlib.org/examples/lines_bars_and_markers/barh_demo.html
+. Advanced plotting
+==> https://python4astronomers.github.io/plotting/advanced.html
 # ----------------------------------------------
 # NUMPY
 # ----------------------------------------------
@@ -162,10 +164,11 @@
 . How to export the directory tree of a folder in Windows
 ==> https://www.digitalcitizen.life/how-export-directory-tree-folder-windows
 # ----------------------------------------------
-# xxx
+# EXPERTS EXCHANGE
 # ----------------------------------------------
+. codereview.stackexchange.com
+==> codereview.stackexchange.com/questions/192292/mentorship-requested-how-should-i-optimize-factorize-the-following-code
 
-
-
+# ----------------------------------------------
 
 
